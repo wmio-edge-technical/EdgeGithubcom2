@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeGithubcom2
+  gitServerName: totalka
+  gitUrl: https://github.com/wmio-edge-technical/EdgeGithubcom2
+  gitUsername: wmio-edge-technical
+  gitToken: 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
+  gitBranch: master
